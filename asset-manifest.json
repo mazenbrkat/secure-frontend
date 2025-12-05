@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/secure-frontend/static/css/main.ee65cf16.css",
+    "main.js": "/secure-frontend/static/js/main.cc404528.js",
+    "static/js/453.d7446e4a.chunk.js": "/secure-frontend/static/js/453.d7446e4a.chunk.js",
+    "static/media/nature.jpg": "/secure-frontend/static/media/nature.177c3f17cd4a59bc6d60.jpg",
+    "static/media/nature1.jpg": "/secure-frontend/static/media/nature1.ff3c4d2d0d19dc47fa85.jpg",
+    "static/media/salad.jpg": "/secure-frontend/static/media/salad.fcc2c7ad6ec0d8d69197.jpg",
+    "static/media/Dark.png": "/secure-frontend/static/media/Dark.3f10bc748fc53891fc89.png",
+    "static/media/burger.jpg": "/secure-frontend/static/media/burger.1ae3cd3591534dbc9720.jpg",
+    "static/media/pasta.jpg": "/secure-frontend/static/media/pasta.db9ed0d2f9c696e9c68f.jpg",
+    "static/media/pizza.jpg": "/secure-frontend/static/media/pizza.4dac076573e0f880abe4.jpg",
+    "index.html": "/secure-frontend/index.html",
+    "main.ee65cf16.css.map": "/secure-frontend/static/css/main.ee65cf16.css.map",
+    "main.cc404528.js.map": "/secure-frontend/static/js/main.cc404528.js.map",
+    "453.d7446e4a.chunk.js.map": "/secure-frontend/static/js/453.d7446e4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee65cf16.css",
+    "static/js/main.cc404528.js"
+  ]
+}
